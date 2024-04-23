@@ -1,2 +1,2 @@
-# example_homeword_upload_for_neurosignals_class
+# example_homework_upload_for_neurosignals_class
 example_homeword_upload_for_neurosignals_class_students
